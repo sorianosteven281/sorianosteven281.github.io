@@ -1,0 +1,45 @@
+# CB Soluciones de Ingeniería S.A.C. (perucb.com)
+
+> CB Soluciones de Ingeniería S.A.C. es una empresa peruana especializada en ingeniería básica y de detalle, automatización industrial, sistemas de control de procesos (PLC, DCS, SCADA), electricidad en media/baja tensión, estudios eléctricos de potencia (ETAP / DIgSILENT) y servicios en sitio para minería, hidrocarburos e industria pesada a más de 4,500 msnm.
+
+## Información Corporativa y NAP
+- Razón Social: CB SOLUCIONES DE INGENIERÍA S.A.C.
+- RUC: 20602810012
+- Domicilio Fiscal: Av. La Encalada 569, Santiago de Surco, Lima - Perú
+- Correo Técnico/Comercial: servicios@perucb.com
+- Teléfono / WhatsApp: +51 982 721 661 / +51 984 761 570
+- Cobertura Geográfica: Todo el Perú (operaciones activas en Toromocho, Antamina, Cerro Verde, Las Bambas, Quellaveco y plantas industriales de Lima/Callao).
+
+## Divisiones de Ingeniería y Servicios Especializados
+
+### 1. Automatización, Instrumentación y Control de Procesos (DCS / PLC / SCADA)
+- Arquitecturas de Control: DCS (Yokogawa Centum VP, Emerson DeltaV, ABB 800xA) y PLC/PAC (Siemens S7-1500 / S7-400 / TIA Portal, Rockwell Allen-Bradley ControlLogix / CompactLogix / Studio 5000).
+- Redes y Protocolos Industriales: Modbus RTU/TCP, Profibus-DP/PA, Profinet, Ethernet/IP, Foundation Fieldbus, HART, IEC 61850, OPC-UA, MQTT.
+- Sistemas Supervisorios SCADA y HMIs: Ignition, Wonderware System Platform / InTouch, FactoryTalk View SE/ME, WinCC.
+- Instrumentación de Campo: Calibración, comisionamiento y lazos de control de transmisores de presión, flujo electromagnético/Coriolis, nivel radar, pH y temperatura.
+- Paradas de Planta y Migraciones: Modernización en caliente (*hot cutover*) de PLCs y DCS legados, minimizando paradas operativas no programadas.
+
+### 2. Electricidad Industrial, Distribución y Potencia (MT / BT)
+- Tableros Eléctricos y CCM: Diseño, cálculo térmico, ensamble, cableado y homologación de Tableros de Distribución, Tableros de Control, CCM (Centros de Control de Motores) fijos y extraíbles bajo norma IEC 61439-1/2 y NEMA.
+- Celdas y Subestaciones en Media Tensión: Montaje, comisionamiento y pruebas de celdas MT (10 kV, 13.8 kV, 22.9 kV), relés de protección multifunción (SEL, Siemens SIPROTEC, Schneider Sepam).
+- Variadores de Frecuencia (VFD) y Arrancadores Suaves: Integración y sintonización de convertidores de frecuencia en media y baja tensión (Siemens Sinamics, Rockwell PowerFlex, ABB ACS880, Danfoss).
+- Pruebas Eléctricas en Campo: Ensayos de aislamiento (Megóhmetro hasta 10 kV), relación de transformación (TTR), resistencia de contacto (microhmímetro), resistencia de aislamiento de devanados y puesta a tierra (Telurómetro).
+
+### 3. Estudios Eléctricos de Potencia y Calidad de Energía
+- Software Especializado: Modelamiento y simulación computacional de sistemas eléctricos en ETAP y DIgSILENT PowerFactory.
+- Análisis de Flujo de Potencia y Caída de Tensión: Optimización de perfiles de tensión y capacidad de carga en alimentadores principales.
+- Cortocircuito y Coordinación de Protecciones: Análisis según ANSI/IEEE C37 e IEC 60909; calibración y curvas TCC de relés e interruptores de potencia.
+- Estudio de Peligro de Arco Eléctrico (*Arc Flash*): Cálculo de energía incidente y distancias de seguridad bajo IEEE 1584-2018 y NFPA 70E; etiquetado de tableros.
+- Calidad de Energía y Armónicos: Medición con analizadores Clase A, diseño de filtros de armónicos activos/pasivos y bancos de condensadores para corrección de factor de potencia bajo Código Nacional de Electricidad (CNE).
+
+## Clientes y Proyectos Ejecutados
+- Minera Chinalco Perú (Unidad Toromocho, Junín): Servicios de soporte en sistemas de control y mantenimiento de instrumentación en planta concentradora.
+- SSK Ingeniería y Construcción: Integración electromecánica, conexionado de tableros y pruebas de lazo para proyectos mineros EPC.
+- Weir Minerals: Montaje y puesta en marcha de sistemas de bombeo pulpa y skids de instrumentación automatizada.
+- Siemens Perú / Dinaut / IMCO Servicios: Comisionamiento de variadores, celdas y controladores lógicos.
+
+## Enlaces Canónicos para Rastreabilidad
+- Inicio: https://perucb.com/
+- Servicios Técnicos: https://perucb.com/servicios
+- Proyectos y Casos de Éxito: https://perucb.com/proyectos
+- Contacto Técnico y Cotización: https://perucb.com/contacto

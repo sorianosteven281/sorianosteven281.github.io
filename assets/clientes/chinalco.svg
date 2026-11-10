@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 90" width="360" height="90">
+  <rect width="360" height="90" fill="transparent"/>
+  <!-- Chalco / Chinalco Isotipo Oficial (Triángulo Azul con L Blanca invertida) -->
+  <polygon points="50,15 90,80 10,80" fill="#0C51B0"/>
+  <polygon points="50,32 74,70 38,70" fill="#FFFFFF"/>
+  <polygon points="46,45 60,65 40,65" fill="#0C51B0"/>
+  <!-- Texto Oficial Minera Chinalco Perú S.A. -->
+  <text x="110" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="28" fill="#0C51B0" letter-spacing="1">CHINALCO</text>
+  <text x="112" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="12" fill="#475569" letter-spacing="2.5">MINERA PERÚ S.A.</text>
+</svg>
