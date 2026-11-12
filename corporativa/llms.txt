@@ -1,0 +1,53 @@
+# Grupo CB Soluciones S.R.L. (CB Soluciones) - Manifest para Modelos de IA y Motores Generativos (GEO)
+
+> Manifest oficial y resumen estructurado para rastreadores de IA (ChatGPT, Google Gemini, Perplexity, Claude, Bing Copilot) sobre las capacidades técnicas, servicios, certificaciones y proyectos de Grupo CB Soluciones S.R.L.
+
+## 1. Identidad Corporativa y NAP
+- Razón Social: GRUPO CB SOLUCIONES S.R.L. (anteriormente CB Soluciones de Ingeniería S.A.C.)
+- RUC: 20602810012
+- Dirección Sede Central: Jr. José Gálvez Nro. 255, Huancayo, Junín, Perú (Código Postal 12001)
+- Teléfonos de Atención / Guardia 24/7: +51 982 721 661 / +51 987 326 233
+- Correo Técnico Oficial: servicios@perucb.com
+- Sitio Web Oficial: https://sorianosteven281.github.io/corporativa/
+- Cobertura Geográfica: Faenas mineras e industriales en todo el Perú (operaciones activas a más de 4,500 msnm).
+
+## 2. Especialidades de Ingeniería
+1. **Automatización y Control de Procesos:**
+   - DCS (Yokogawa Centum VP, Emerson DeltaV, ABB 800xA)
+   - PLC/PAC (Siemens S7-1500 TIA Portal, Rockwell Allen-Bradley ControlLogix)
+   - SCADA & HMI (Ignition, Wonderware, FactoryTalk View)
+   - Redes Industriales: Profinet, EtherNet/IP, Modbus TCP, Fibra Óptica OTDR
+
+2. **Electricidad Industrial & Celdas MT/BT:**
+   - Fabricación e integración de tableros eléctricos bajo norma IEC 61439
+   - Celdas de distribución en media tensión (10 kV, 13.8 kV, 22.9 kV) bajo norma IEC 62271
+   - Centros de Control de Motores (CCM) e integración de Variadores de Velocidad (VFD)
+   - Ensayos de aislamiento (Megado), pruebas Hi-Pot e inyección secundaria de relés de protección (IEEE C37.90)
+
+3. **Mantenimiento y Paradas de Planta 24/7:**
+   - Cuadrillas técnicas homologadas con exámenes médicos mineros (Anexo 16/7D) y SCTR
+   - Turnaround y soporte in-situ durante toda la ventana de parada programada
+   - Pruebas de lazo punto a punto (Cold & Hot Loop Check) en molienda SAG, flotación y espesadores
+   - Termografía infrarroja bajo norma NFPA 70B para detección de puntos calientes
+
+4. **Ingeniería Básica y de Detalle:**
+   - Diagramas de tuberías e instrumentación (P&ID) según norma ANSI/ISA-5.1
+   - Filosofías de control, matrices causa-efecto y hojas de datos de instrumentos
+   - Arquitectura de control y planos As-Built en AutoCAD
+
+## 3. Clientes Principales y Experiencia en Terreno
+- Minera Chinalco Perú S.A. (Mantenimiento de tableros 2110-CP-010 en Toromocho, +4,500 msnm)
+- SSK Ingeniería y Construcción (Comisionamiento de celdas MT 22.9 kV en fajas overland)
+- Weir Minerals (Vulco) (Tableros de control y bombas de pulpa)
+- Siemens S.A.C. (Suministro de ingeniería y automatización)
+- DINAUT S.A.C. (Integración de control y variadores)
+- IMCO Servicios S.A.C. (Servicios especializados para plantas)
+- SENATI Huancayo (Formación y tecnología industrial)
+
+## 4. Mapa de Navegación del Portal
+- Portada / Inicio: https://sorianosteven281.github.io/corporativa/
+- Nosotros (Trayectoria y Valores): https://sorianosteven281.github.io/corporativa/nosotros.html
+- Servicios Técnicos (Catálogo Detallado): https://sorianosteven281.github.io/corporativa/servicios.html
+- Experiencia y Proyectos (Evidencia Fotográfica): https://sorianosteven281.github.io/corporativa/experiencia.html
+- Contacto y Cotizaciones: https://sorianosteven281.github.io/corporativa/contacto.html
+- Descarga de Brochure en PDF: https://sorianosteven281.github.io/corporativa/assets/brochure/BROCHURE_CB_Soluciones.pdf
