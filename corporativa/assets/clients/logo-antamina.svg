@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60">
+  <path d="M18 42 C24 24 36 20 48 42" fill="none" stroke="#008080" stroke-width="4" stroke-linecap="round"/>
+  <path d="M24 42 C30 28 42 26 54 42" fill="none" stroke="#00A896" stroke-width="3" stroke-linecap="round"/>
+  <path d="M30 42 C36 32 46 30 60 42" fill="none" stroke="#028090" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="68" y="38" fill="#005F73" font-family="Impact, Arial Black, sans-serif" font-size="24" letter-spacing="1.5">ANTAMINA</text>
+</svg>

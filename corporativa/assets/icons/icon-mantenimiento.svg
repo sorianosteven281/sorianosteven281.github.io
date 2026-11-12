@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Gear -->
+  <circle cx="60" cy="38" r="16" fill="white" fill-opacity="0.2"/>
+  <circle cx="60" cy="38" r="6" fill="white" stroke="none"/>
+  <path d="M60 16 V22 M60 54 V60 M38 38 H44 M76 38 H82 M45 23 L49 27 M71 49 L75 53 M75 23 L71 27 M45 49 L49 45" stroke-width="4"/>
+  <!-- Hand holding from below -->
+  <path d="M16 68 C24 64 36 68 46 64 L68 54 C72 52 76 56 72 60 L54 74 C48 78 40 80 32 80 L16 80 Z" fill="white" fill-opacity="0.15"/>
+</svg>

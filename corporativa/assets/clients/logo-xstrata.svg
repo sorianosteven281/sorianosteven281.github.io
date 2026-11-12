@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <path d="M16 16 L34 44 M34 16 L16 44" stroke="#5C6B73" stroke-width="8" stroke-linecap="round"/>
+  <path d="M25 18 C35 30 35 30 45 42" stroke="#9DB4C0" stroke-width="4" stroke-linecap="round"/>
+  <text x="52" y="40" fill="#1A365D" font-family="Arial, sans-serif" font-size="26" font-weight="900" letter-spacing="-0.5">xstrata</text>
+</svg>
