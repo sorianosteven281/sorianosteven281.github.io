@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /corporativa/
+Disallow: /corporativa/assets/brochure/
+
+Sitemap: https://sorianosteven281.github.io/corporativa/sitemap.xml
